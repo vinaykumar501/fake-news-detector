@@ -1,11 +1,5 @@
 # 📰 Fake News Detection using Machine Learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vinaykumar501/fake-news-detector/blob/main/fake_news_detection.py)
-
-This project uses machine learning models to classify news as ...
-
-# 📰 Fake News Detection using Machine Learning
-
 This project uses machine learning models to classify news as **real** or **fake** based on its content. It trains multiple models (Logistic Regression, Naive Bayes, Random Forest, and Support Vector Machine), and selects the best performing one (SVM) for predictions.
 
 ## 📂 Dataset
